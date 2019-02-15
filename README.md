@@ -1,5 +1,7 @@
 "Copyright [2018] Gavan Adrian-George, 334CA"
+
 Nume, prenume: Gavan, Adrian-George
+
 Grupa, seria: 334CA
 
 Tema 1 APD - Antialiasing si micro renderer
@@ -7,7 +9,7 @@ Tema 1 APD - Antialiasing si micro renderer
 Prezentarea implementarii:
 ==========================
 
-- Task 1:
+Task 1:
 =========
 
 A. homework.c
@@ -98,7 +100,7 @@ B. homework.h
 - Contine informatiile necesare unui thread.
 - Contine id-ul threadului si pointeri catre imaginile de intrare si iesire.
 
-- Task 2:
+Task 2:
 =========
 
 A. homework1.c
